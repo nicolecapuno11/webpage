@@ -1,0 +1,85 @@
+body{
+    background-color: #FFD8A9;
+  }
+  .logo{
+    width: 120px;
+    cursor: pointer;
+  }
+  .navbar-brand{
+    font-style: oblique;
+    font-size: x-large;
+    font-family: fantasy;
+  }
+  .nav-item{
+    font-size: medium;
+    font-style: normal;
+    font-family: cursive;
+  }
+  .row{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .content{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    padding-top: 40px;
+    background-color: #F1A661;
+    padding-bottom: 30px;
+  }
+  .content p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    padding-left: 450px;
+    padding-right: 450px;
+    font-size: larger;
+  }
+  button{
+    width: 200px;
+    text-align: center;
+    border-radius: 25px;
+    background: transparent;
+    padding: 10px 0;
+    margin-top: 20px;
+  }
+  button:hover{
+    background-color: bisque;
+  }
+  .pic-con{
+    width: 300px;
+  }
+  .background-content{
+    width: 400px;
+  }
+  .container{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    justify-content: space-between;
+  }
+  .col-bg{
+    width: 400px;
+    padding-bottom: 20px;
+  }
+  .col{
+    background-color: azure;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .banner{
+    padding-top: 50px;
+    text-align: center;
+    background-color: #F1A661;
+  }
+  .banner h2{
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: bolder;
+  }
+  .view{
+    padding-bottom: 20px;
+  }                                                         
